@@ -1,0 +1,14 @@
+C:\Users\Richi\RiderProjects\Programming\bin\Debug\net7.0\Programming.exe
+C:\Users\Richi\RiderProjects\Programming\bin\Debug\net7.0\Programming.deps.json
+C:\Users\Richi\RiderProjects\Programming\bin\Debug\net7.0\Programming.runtimeconfig.json
+C:\Users\Richi\RiderProjects\Programming\bin\Debug\net7.0\Programming.dll
+C:\Users\Richi\RiderProjects\Programming\bin\Debug\net7.0\Programming.pdb
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.AssemblyInfoInputs.cache
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.AssemblyInfo.cs
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.dll
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\refint\Programming.dll
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.pdb
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\Programming.genruntimeconfig.cache
+C:\Users\Richi\RiderProjects\Programming\obj\Debug\net7.0\ref\Programming.dll
